@@ -19,6 +19,6 @@ pip install langflow --upgrade
 
 ## FAQ
 
-  If you have any questions please reach out here:
+  Please reach out here:
   arminheyers.bus iness (at) g m ai l . c o m
   +49 0 160 75 43 122
