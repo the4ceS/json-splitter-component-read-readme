@@ -16,8 +16,9 @@ The JSON Splitter is part of the LangFlow ecosystem. To use it, ensure that Lang
 ```bash
 pip install langflow --upgrade
 
+## FAQ - IMPORTANT - PLEASE READ
 
-# FAQ - IMPORTANT - PLEASE READ
+This repo has one purpose:
 
 Please reach out here:
   arminheyers.bus iness (at) g m ai l . c o m
