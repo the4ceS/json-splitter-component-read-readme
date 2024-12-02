@@ -18,8 +18,9 @@ pip install langflow --upgrade
 
 ## FAQ - IMPORTANT - PLEASE READ
 
-This repo has one purpose:
 
-Please reach out here:
+
+IF YOU HAVE ANY QUESTIONS:
+
   arminheyers.bus iness (at) g m ai l . c o m
   +49 0 160 75 43 122
